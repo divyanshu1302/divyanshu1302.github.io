@@ -1,8 +1,4 @@
---
-layout: page
-title: About me
-css: "/css/aboutme.css"
----
+<hr>ABOUT ME </hr> 
 
 <div id="aboutme-section">
 
