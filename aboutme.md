@@ -1,10 +1,10 @@
-<hr>ABOUT ME </hr> 
+<h1>ABOUT ME </h1> 
 
 <div id="aboutme-section">
 
 <span class="fa fa-briefcase about-icon"></span>
 I have prior hands-on projects and technical internship experiences in some good companies like US Health Care Data Platform - <a href="https://innovaccer.com/" target="_blank"> Innovaccer </a> , E-commerce Platform- <a href="https://www.voylla.com/" target="_blank"> Voylla </a> and other remote based experiences in good startups out of Bangalore and Gurugram. 
-<i>If you are looking for a <strong>freelance Backend/Web developer</strong> than feel free to contact</i>.
+<i>If you are looking for a <strong>Freelance Backend/Web developer</strong> than feel free to contact</i>.
 </p>
 
 <p class="about-text">
