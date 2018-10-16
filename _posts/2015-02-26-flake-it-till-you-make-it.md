@@ -1,7 +1,7 @@
 ---
 layout: post
 title: OYO Rooms SDE-1 Experience 
-subtitle: (On-Campus)
+subtitle: (On-Campus-2018)
 bigimg: /img/path.jpg
 tags: [interview experiences,oyo ]
 ---
@@ -40,11 +40,11 @@ So this was my first round, basic advice is that for every question take your ti
 
 <strong> F2F Round 2:( around 120 mins) </strong>:   Interview started with the basic introduction, then he also started with my resume and asked most of the things that were there in my resume in detail. He asked me about the inner mechanism of Elasticsearch in detail, Pros and cons of using NoSQL and SQL  databases, why i have used a particular DB for my project, difference between monolithic & microservices and similar backend related stuff as my resume pitched me like this, it may be different if you have machine learning projects or android or anything else in your resume. Then he asked questions from DBMS like indexing. What are the advantages and disadvantages of multilevel indexing, rearrangements in multilevel indexing, B+ tree etc. He also asked why normalization for databases, it’s different forms. Then in OS, he asked about basic concepts of paging,  all the scheduling algorithms and basic of semaphores. Now it comes to ds/algo part,  he asked me two questions.
 
-<strong> Problem 1 </strong>: https://www.geeksforgeeks.org/policemen-catch-thieves/
+<strong> Problem 1 </strong>: <a href = "https://www.geeksforgeeks.org/policemen-catch-thieves/"> https://www.geeksforgeeks.org/policemen-catch-thieves/ </a>
 
 I told him the greedy approach and then he asked me to write the code for it.
 
-<strong> Problem 2 </strong>: https://practice.geeksforgeeks.org/problems/largest-number-formed-from-an-array/0
+<strong> Problem 2 </strong>: <a href="https://practice.geeksforgeeks.org/problems/largest-number-formed-from-an-array/0" > https://practice.geeksforgeeks.org/problems/largest-number-formed-from-an-array/0 </a>
 
 I told him related approach, he tried me to confuse by asking some counter questions on the approach, by giving different test cases but later he asked me to write the code for it.
 
