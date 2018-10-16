@@ -15,7 +15,7 @@ Consisted of 2 coding questions and 20 MCQ’S:
 
 Given a source and destination in a NxN maze find the shortest path between them, some of the cells are occupied and one cannot find path through them.
 
-https://practice.geeksforgeeks.org/problems/shortest-source-to-destination-path/0
+<a href="https://practice.geeksforgeeks.org/problems/shortest-source-to-destination-path/0" > https://practice.geeksforgeeks.org/problems/shortest-source-to-destination-path/0 </a>
 
 <strong> Second question was: </strong>
 
@@ -26,11 +26,11 @@ I solved 1st question using bfs approach and completed MCQ’s . <strong> 31 stu
 
 <strong> F2F Round 1:( around 105 mins) </strong>  The interviewer asked me to tell about myself and then he started things from my resume. Since I have a developer kind of profile and some good previous internship experience, he started with projects involved during my internships, their design patterns also asked to write approach involved in them. So with all this after around 45 minutes, he took around 2-3 min break, also offered me some cookies. I thought interview got over but then he shifted towards data structure and algorithms.He asked 3 problems :
 
-<strong> Problem 1 </strong>: https://www.geeksforgeeks.org/find-maximum-vertical-sum-in-binary-tree/
+<strong> Problem 1 </strong>: <a href="https://www.geeksforgeeks.org/find-maximum-vertical-sum-in-binary-tree/"> https://www.geeksforgeeks.org/find-maximum-vertical-sum-in-binary-tree/ </a>
 
-<strong> Problem 2 </strong>: https://www.geeksforgeeks.org/kth-largest-element-in-a-stream/
+<strong> Problem 2 </strong>: <a href="https://www.geeksforgeeks.org/kth-largest-element-in-a-stream/"> https://www.geeksforgeeks.org/kth-largest-element-in-a-stream/ </a>
 
-<strong> Problem 3 </strong>: https://www.geeksforgeeks.org/find-the-element-that-appears-once-in-a-sorted-array/   (O(logn) approach)
+<strong> Problem 3 </strong>: <a href = "https://www.geeksforgeeks.org/find-the-element-that-appears-once-in-a-sorted-array/ "> https://www.geeksforgeeks.org/find-the-element-that-appears-once-in-a-sorted-array/ </a>   (O(logn) approach)
 
 I solved all the three problems and he asked me to write code for each on paper. For second question he also asked me to draw a heapfied tree for each iteration as it involves heaps and then asked basic questions on heap. In the third question, I got confused but I discussed the approach with the interviewer and then finally after taking some time solved it.
 
